@@ -1,7 +1,7 @@
 
 # Facil Tecnologia Teste De Php e Sql
 
-Neste repositorio se encontra as respostas ao teste de Sql e Php solicitados pela empresa Facil Tecnologia com o objetivo de avaliar e dar segmento ao processo de candidatura a vaga de desenvolvedor Php
+Neste repositório se encontra as respostas ao teste de SQL e PHP solicitados pela empresa Fácil Tecnologia visando avaliar e dar segmento ao processo de candidatura a vaga de desenvolvedor PHP
 
 ## Teste Php
 
